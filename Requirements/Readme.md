@@ -32,14 +32,10 @@ The features of Face detection are:
 - Most of the images can provide accuracy above the 90%
 
 **Defining the System**
-
+![](Defining the System)
 
 **SWOT Analysis**
-
-
-
-
-
+![](SWOT .png)
 
 **4W's and 1'H**
 
