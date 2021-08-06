@@ -34,14 +34,14 @@ The features of Face detection are:
 
 
 
-![](Aspose.Words.ed13459b-8199-4fae-b0b4-3f4f857c5b09.001.png)![](Aspose.Words.ed13459b-8199-4fae-b0b4-3f4f857c5b09.002.png)![](Aspose.Words.ed13459b-8199-4fae-b0b4-3f4f857c5b09.003.png)**Defining the System**
+![](Defining the System.png)![](Defining the System.png)![](Defining the System.png)**Defining the System**
 
-![](Aspose.Words.ed13459b-8199-4fae-b0b4-3f4f857c5b09.004.png)
+![](Defining the System.png)
 
 **SWOT Analysis**
 
 
-![](Aspose.Words.ed13459b-8199-4fae-b0b4-3f4f857c5b09.005.png)
+![](SWOT.png)
 
 
 
