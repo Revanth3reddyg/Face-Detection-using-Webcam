@@ -30,17 +30,14 @@ The features of Face detection are:
 - Most of the images can provide accuracy above the 90%
 
 
+**Defining the System**
 
-
-**BLOCK DIAGRAM**
-![](Aspose.Words.7f329973-854e-46a7-83b2-fb45cf136348.001.png)![](Aspose.Words.7f329973-854e-46a7-83b2-fb45cf136348.002.png)![](Aspose.Words.7f329973-854e-46a7-83b2-fb45cf136348.003.png)**Defining the System**
-
-![](Aspose.Words.7f329973-854e-46a7-83b2-fb45cf136348.004.png)
+![](Defining the System.png)
 
 **SWOT Analysis**
 
 
-![](Aspose.Words.7f329973-854e-46a7-83b2-fb45cf136348.005.png)
+![](SWOT .png)
 
 
 
