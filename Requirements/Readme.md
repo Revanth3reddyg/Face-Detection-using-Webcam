@@ -26,20 +26,20 @@
 
   The features of Face detection are:
 
-  1. Quick to compute.
-      - Classification of a face does not require a lot of offline processing.
-  2. Accurate.
-      - Most of the images can provide accuracy above the 90%
+  1.  Quick to compute.
+       - Classification of a face does not require a lot of offline processing.
+  2.  Accurate.
+       - Most of the images can provide accuracy above the 90%
 
 # Defining the System
 
-![](Block.png)
+!(Block.png)
 
 
 # SWOT Analysis
 
 
-![](SWOT.png)
+!(SWOT.png)
 
 
 # 4W's and 1'H
