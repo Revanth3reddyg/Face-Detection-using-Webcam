@@ -1,13 +1,13 @@
 ﻿# Requirements
 
-**Introduction**
+# Introduction
 
 - Biometrics are a way to measure a person’s physical characteristics to verify their identity.
 - Face detection is used to detect the faces in the images or live video.
 - It is a part of Object Detection.
 - It is used to detect the faces in real time for surveillance and tracking of a person or objects.
 
-**Research**
+# Research
 
 - In the past few years face recognition, appreciated as one of the most promising applications in the field of image analysis. 
 - Object detection is one of the computer technologies, which connected to the image processing and computer vision and it interacts with detecting instances of an object such as human faces, building, tree, car, etc. 
@@ -15,7 +15,7 @@
 - Face Detection is the first and essential step for face recognition, and it is used to detect faces in the images.
 - Facebook is also using face detection algorithm to detect faces in the images and recognise them.
 
-**Cost and Features**
+# Cost and Features
 
 **Cost**
 
@@ -31,18 +31,18 @@ The features of Face detection are:
 2. Accurate.
 - Most of the images can provide accuracy above the 90%
 
-**Defining the System**
+# Defining the System
 
 ![](Block.png)
 
 
-**SWOT Analysis**
+# SWOT Analysis
 
 
 ![](SWOT.png)
 
 
-**4W's and 1'H**
+# 4W's and 1'H
 
 **Who:**
 
