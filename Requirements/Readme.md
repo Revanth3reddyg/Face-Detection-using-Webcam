@@ -17,12 +17,12 @@
 
 ## Cost and Features
 
-**Cost**
+### Cost
 
 -   If there is an internal enabled webcam attached to your laptop / PC, then it’s free of cost.
 -   But, if there is no internal enabled webcam, we have to buy an external device to access it. It is not cost-effective.
 
-**Features**
+### Features
 
   The features of Face detection are:
 
@@ -41,23 +41,23 @@
 
 ## 4W's and 1'H
 
-  **Who**
+  ### Who
 
     It is helpful for the detecting the faces in real-time for tracking of a person or objects through surveillance or Webcam.
 
-  **What**
+  ### What
 
     The primary aim of face detection is to determine whether there is any face in an image or not.
 
-  **When**
+  ### When
 
     When any uncertain thing happens or performing it for attendance management.
 
-  **Where**
+  ### Where
 
     Can be put in schools, colleges, offices or any public places.
 
-  **How**
+  ### How
 
     Face Detection works as to detect multiple faces in an image. 
 
