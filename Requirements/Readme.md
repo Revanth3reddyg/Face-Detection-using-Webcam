@@ -41,7 +41,7 @@
 
 ## 4W's and 1'H
 
-  **Who**
+  'Who'
 
     It is helpful for the detecting the faces in real-time for tracking of a person or objects through surveillance or Webcam.
 
