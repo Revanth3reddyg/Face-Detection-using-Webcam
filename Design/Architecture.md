@@ -3,7 +3,8 @@
 **UseCase Diagram**
 
 
-![C:\Users\ADMIN\Desktop\UseCaseDiagram1.png](Aspose.Words.e752b349-d9b7-4e8d-a8ab-c30d828d0653.001.png)
+
+![C:\Users\ADMIN\Desktop\UseCaseDiagram1.png](UseCase_H.png)
 
 
 # Low Level Requirements
@@ -11,5 +12,6 @@
 **UseCase Diagram**
 
 
-![C:\Users\ADMIN\Desktop\UseCaseDiagram2.png](Aspose.Words.e752b349-d9b7-4e8d-a8ab-c30d828d0653.002.png)
+
+![C:\Users\ADMIN\Desktop\UseCaseDiagram2.png](UseCase_L.png)
 
