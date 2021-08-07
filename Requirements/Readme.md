@@ -33,14 +33,11 @@
 
 # Defining the System
 
-!(Block.png)
-
+![](Block.png)
 
 # SWOT Analysis
 
-
-!(SWOT.png)
-
+![](SWOT.png)
 
 # 4W's and 1'H
 
