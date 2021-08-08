@@ -1,11 +1,10 @@
 ﻿# Face Detection using Webcam
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/02cbfd4de00045aa822678537b7f6381)](https://app.codacy.com/gh/Revanth3reddyg/Face-Detection-using-Webcam?utm_source=github.com&utm_medium=referral&utm_content=Revanth3reddyg/Face-Detection-using-Webcam&utm_campaign=Badge_Grade_Settings)
 
 |<p></p><p>**CODE QUALITY**</p>|<p></p><p>**CODE GRADE**</p>|
 |:-|:-|
 |![](https://www.code-inspector.com/project/26152/score/svg)|![](https://www.code-inspector.com/project/26152/status/svg)|
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b90d3eaa8d1c46b580c6c30d701d0ba0)](https://www.codacy.com/gh/Revanth3reddyg/Face-Detection-using-Webcam/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Revanth3reddyg/Face-Detection-using-Webcam&amp;utm_campaign=Badge_Grade)|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/02cbfd4de00045aa822678537b7f6381)](https://app.codacy.com/gh/Revanth3reddyg/Face-Detection-using-Webcam?utm_source=github.com&utm_medium=referral&utm_content=Revanth3reddyg/Face-Detection-using-Webcam&utm_campaign=Badge_Grade_Settings)|
 ## Folder Structure
 |<p>**Folders**</p> |<p>**Description**</p>|
 |:-|:-|
