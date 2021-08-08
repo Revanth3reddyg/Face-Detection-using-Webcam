@@ -6,7 +6,7 @@
 
 ## Folder Structure
 
-|> Folders |> Description|
+|<p></p><p>**Folders**</p> |<p></p><p>**Description**</p>|
 | :-: | :-: |
 |1\_Requirements|Detailing of requirements and research.|
 |2\_Design|Specifying the design details.|
@@ -15,7 +15,7 @@
 
 ## Contributors List and Summary
 
-|**Name**|**Features**|**Issues Raised**|**No. of Test cases**|**Test Cases Passed**|
+|<p></p><p>**Name**</p>|<p></p><p>**Features**</p>|<p></p><p>**Issues Raised**</p>|<p></p><p>**No. of Test cases**</p>|<p></p><p>**Test Cases Passed**</p>|
 | :- | :- | :- | :- | :- |
 |Revanth Reddy G|Face Detection|1|3|Yes|
 
