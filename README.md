@@ -21,11 +21,11 @@
 
 ## Challenges Faced
 
- 1.  Inputting string object that has no get method (Attribute Error)
- 2.  Used Tkinter window to show the pop-up message like “Press e for quitting” but ended up with a not responding page à Later Resolved by removing it and adding the popup            message to the webcam window. 
- 3.  During the detection, webcam window is not quitting which lead to restart the kernel  à Later resolved using a Hexadecimal Constant (0xFF). 
+ 1. Inputting string object that has no get method (Attribute Error)
+ 2. Used Tkinter window to show the pop-up message like “Press e for quitting” but ended up with a not responding page à Later Resolved by removing it and adding the popup             message to the webcam window. 
+ 3. During the detection, webcam window is not quitting which lead to restart the kernel  à Later resolved using a Hexadecimal Constant (0xFF). 
 
 ## Credits
 
- 1.  Reference for the template and Structure - [Sanchana-2k/LTTS_C_MiniProject (github.com)](https://github.com/Sanchana-2k/LTTS_C_MiniProject)
+ 1. Reference for the template and Structure -[Sanchana-2k/LTTS_C_MiniProject (github.com)](https://github.com/Sanchana-2k/LTTS_C_MiniProject)
 
