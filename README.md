@@ -2,7 +2,7 @@
 
 |<p></p><p>**CODE QUALITY**</p>|<p></p><p>**CODE GRADE**</p>|
 | :- | :- |
-|<p></p><p>https://www.codeinspector.com/project/26152/score/svg</p>|<p></p><p>https://www.codeinspector.com/project/26152/status/svg</p>|
+|![](https://www.codeinspector.com/project/26152/score/svg)|![](https://www.codeinspector.com/project/26152/status/svg)|
 
 ## Folder Structure
 
