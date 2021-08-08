@@ -14,9 +14,9 @@
 |:-|:-|:-|:-|:-|
 |Revanth Reddy G|Face Detection|1|3|Yes|
 ## Challenges Faced
-1. Inputting string object that has no get method. (Attribute Error)
-2. Used Tkinter window to show the pop-up message like press 'e' for quitting but ended up with a not responding page --> Resolved by removing it.
-3. During the detection,webcam window is not quitting which lead to restart the kernel --> Later resolved using a Hexadecimal Constant(0xFF). 
+1.  Inputting string object that has no get method. (Attribute Error)
+2.  Used Tkinter window to show the pop-up message like press 'e' for quitting but ended up with a not responding page --> Resolved by removing it.
+3.  During the detection,webcam window is not quitting which lead to restart the kernel --> Later resolved using a Hexadecimal Constant(0xFF). 
 ## Credits
-Reference for the template and Structure-[Sanchana-2k/LTTS_C_MiniProject](https://github.com/Sanchana-2k/LTTS_C_MiniProject)
+Reference for the template and Structure-[Sanchana-2k](https://github.com/Sanchana-2k/LTTS_C_MiniProject)
 
