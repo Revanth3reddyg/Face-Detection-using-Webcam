@@ -1,4 +1,7 @@
 ﻿# Face Detection using Webcam
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/02cbfd4de00045aa822678537b7f6381)](https://app.codacy.com/gh/Revanth3reddyg/Face-Detection-using-Webcam?utm_source=github.com&utm_medium=referral&utm_content=Revanth3reddyg/Face-Detection-using-Webcam&utm_campaign=Badge_Grade_Settings)
+
 |<p></p><p>**CODE QUALITY**</p>|<p></p><p>**CODE GRADE**</p>|
 |:-|:-|
 |![](https://www.code-inspector.com/project/26152/score/svg)|![](https://www.code-inspector.com/project/26152/status/svg)|
