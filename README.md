@@ -18,5 +18,5 @@
 2.  Used Tkinter window to show the pop-up message like press 'e' for quitting but ended up with a not responding page --> Resolved by removing it.
 3.  During the detection,webcam window is not quitting which lead to restart the kernel --> Later resolved using a Hexadecimal Constant(0xFF). 
 ## Credits
-Reference for the template and Structure-[Sanchana-2k](https://github.com/Sanchana-2k/LTTS_C_MiniProject)
+1.  Reference for the template and structure-[Sanchana-2k](https://github.com/Sanchana-2k/LTTS_C_MiniProject)
 
