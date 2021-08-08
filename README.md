@@ -1,6 +1,4 @@
 ﻿# Face Detection using Webcam
-
-
 |<p></p><p>**CODE QUALITY**</p>|<p></p><p>**CODE GRADE**</p>|
 |:-|:-|
 |![](https://www.code-inspector.com/project/26152/score/svg)|![](https://www.code-inspector.com/project/26152/status/svg)|
