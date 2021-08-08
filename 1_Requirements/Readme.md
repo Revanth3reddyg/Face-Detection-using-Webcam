@@ -26,9 +26,9 @@
 
   The features of Face detection are:
 
-  1.Quick to compute.
+  1.  Quick to compute.
       - Classification of a face does not require a lot of offline processing.
-  2.Accurate.
+  2.  Accurate.
       - Most of the images can provide accuracy above the 90%
 
 ## Defining the System
