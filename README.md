@@ -6,7 +6,7 @@
 
 ## Folder Structure
 
-|**Folders**|**Description**|
+|> Folders |> Description|
 | :-: | :-: |
 |1\_Requirements|Detailing of requirements and research.|
 |2\_Design|Specifying the design details.|
