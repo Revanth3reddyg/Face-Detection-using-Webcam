@@ -13,7 +13,7 @@
 ## Contributors List and Summary
 |<p>**Name**</p>|<p>**Features**</p>|<p>**Issues Raised**</p>|<p>**No. of Test cases**</p>|<p>**Test Cases Passed**</p>|
 |:-|:-|:-|:-|:-|
-|Revanth Reddy G|Face Detection|1|4|Yes|
+|Revanth Reddy G|Face Detection|2|4|Yes|
 ## Challenges Faced
 1.  Inputting string object that has no get method. (Attribute Error)
 2.  Used Tkinter window to show the pop-up message like press 'e' for quitting but ended up with a not responding page --> Resolved by removing it.
