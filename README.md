@@ -8,8 +8,8 @@
 |:-|:-|
 |1\_Requirements|Detailing of requirements and research.|
 |2\_Design|Specifying the design details.|
-|Implementation|Implementation code for face detection |
-|Test Plans|All Test Cases|
+|3\_Implementation|Implementation code for face detection |
+|4\_Test Plans|All Test Cases|
 ## Contributors List and Summary
 |<p>**Name**</p>|<p>**Features**</p>|<p>**Issues Raised**</p>|<p>**No. of Test cases**</p>|<p>**Test Cases Passed**</p>|
 |:-|:-|:-|:-|:-|
